@@ -155,7 +155,7 @@ else if (number>=100)
     {
         count1 = count1 + 1;
     }
-    std::cout<<hundred(count3-100)<<" "<<ten(count2-10)<<" "<<one(count1-1);
+    std::cout<<hundred(count3-100)<<ten(count2-10)<<one(count1-1);
 }
 else if (number>=10)
 {
@@ -167,7 +167,7 @@ else if (number>=10)
     {
         count1 = count1 + 1;
     }
-    std::cout<<ten(count2-10)<<" "<<one(count1-1);
+    std::cout<<ten(count2-10)<<one(count1-1);
 }
 else if (number>=1)
 {
