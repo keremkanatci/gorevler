@@ -13,28 +13,28 @@ case 1:
     ad="yüz";
     break;
 case 2:
-    ad="iki yüz";
+    ad="ikiyüz";
     break;
 case 3:
-    ad="üç yüz";
+    ad="üçyüz";
     break;
 case 4:
-    ad="dört yüz";
+    ad="dörtyüz";
     break;
 case 5:
-    ad="beş yüz";
+    ad="beşyüz";
     break;
 case 6:
-    ad="altı yüz";
+    ad="altıyüz";
     break;
 case 7:
-    ad="yedi yüz";
+    ad="yediyüz";
     break;
 case 8:
-    ad="sekiz yüz";
+    ad="sekizyüz";
     break;
 case 9:
-    ad="dokuz yüz";
+    ad="dokuzyüz";
     break;
 
 
